@@ -1,0 +1,11 @@
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net9.0\HR.LeaveManagement.Domain.deps.json
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net9.0\HR.LeaveManagement.Domain.dll
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net9.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net9.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net9.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net9.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net9.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net9.0\HR.LeaveManagement.Domain.dll
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net9.0\refint\HR.LeaveManagement.Domain.dll
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net9.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Martin\projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net9.0\ref\HR.LeaveManagement.Domain.dll
