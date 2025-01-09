@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HR.LeaveManagement.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HR.Management.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47f19426200e74c6317a1c1a0915cd74b79e4222")]
-[assembly: System.Reflection.AssemblyProductAttribute("HR.LeaveManagement.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HR.LeaveManagement.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("HR.Management.Persistence")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HR.Management.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
